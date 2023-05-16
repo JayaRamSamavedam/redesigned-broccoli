@@ -1,0 +1,35 @@
+.responsive-button {
+    /* padding: 10px 20px; */
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    color: aliceblue;
+  }
+/*   
+  @media (max-width: 700px) {
+    .responsive-button {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .responsive-button {
+      font-size: 12px;
+    }
+  }
+  @media (max-width: 500px) {
+    .responsive-button {
+      font-size: 10px;
+    }
+  }
+  @media (max-width: 400px) {
+    .responsive-button {
+      font-size: 8px;
+    }
+  }
+  @media (max-width: 300px) {
+    .responsive-button {
+      font-size: 6px;
+    }
+  }
+   */
